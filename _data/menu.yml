@@ -23,6 +23,12 @@ main:
       - link: /lide/pms/
         name: Místní předsednictvo
         match: pms
+      - link: /lide/pks/
+        name: Krajské předsednictvo
+        match: pks
+      - link: /lide/mo/
+        name: Mediální odbor
+        match: mo
   - link: /zastupitele-obci/
     name: Zastupitelé obcí
     match: zastupitele-obci
