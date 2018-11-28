@@ -3,13 +3,9 @@ uid: roman.pasek
 name:     Roman Pašek
 category:
   - clenove
-  - pks
   - pms
-  - mo
   - mstrebicsko
-ordpks: 2
 ordpms: 1
-ordmo: 3
 description: Předseda Místního sdružení Třebíčsko
 profession: programátor analytik
 img: people/roman-pasek.jpg
