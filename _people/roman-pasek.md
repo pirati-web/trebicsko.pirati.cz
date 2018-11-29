@@ -6,7 +6,7 @@ category:
   - pms
   - mstrebicsko
 ordpms: 1
-description: Předseda Místního sdružení Třebíčsko
+description: předseda Místního sdružení Třebíčsko
 profession: programátor analytik
 img: people/roman-pasek.jpg
 mail:
