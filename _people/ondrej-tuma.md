@@ -3,9 +3,7 @@ uid: ondrej.tuma
 name:     Ondřej Tůma  	# běžně používáné jméno
 category:
   - clenove
-  - rv
   - pks
-  - msjihlavsko
 ordpks: 4
 description: 3. místopředseda Krajského sdružení Vysočina # zobrazuje se v lide
 profession: správce JiPiCe
