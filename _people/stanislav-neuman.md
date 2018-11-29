@@ -4,8 +4,9 @@ name:     Stanislav Neuman
 category:
   - clenove
   - mstrebicsko
-  - kandidat2018
-description: člen Místního sdružení Třebíčsko
+  - pms
+ordpms: 2
+description: 1. místopředseda Místního sdružení Třebíčsko
 profession: vedoucí sportovní prodejny
 img: people/stanislav-neuman.jpg
 mail:
