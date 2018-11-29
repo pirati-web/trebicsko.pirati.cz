@@ -1,18 +1,11 @@
 ---
 uid: michaela.vodova
 name:     Michaela Vodová      # běžně používáné jméno
-titles:
-  before: Mgr.
-  after:
 category:
   - clenove
-  - koks
-  - kontaktni_osoba
-  - rv
-  - pks
   - mstrebicsko
 ordpks: 1
-description: předsedkyně Krajského sdružení Vysočina
+description: členka Místního sdružení Třebíčsko
 profession: OSVČ, koordinátorka Krajského sdružení Vysočina
 img: people/michaela-vodova.jpg
 mail:
