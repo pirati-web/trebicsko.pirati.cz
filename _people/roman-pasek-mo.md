@@ -2,9 +2,7 @@
 uid: roman.pasek
 name:     Roman Pašek
 category:
-  - clenove
   - mo
-  - mstrebicsko
 ordmo: 3
 description: správce webu
 profession: programátor analytik
