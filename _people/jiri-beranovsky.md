@@ -2,6 +2,7 @@
 uid:          jiri.beranovsky
 name:         Jiří Beranovský
 category:
+  - clenove
   - mstrebicsko
   - pms
 ordpms: 3
