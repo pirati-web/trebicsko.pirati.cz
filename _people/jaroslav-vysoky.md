@@ -2,6 +2,7 @@
 uid:          jaroslav.vysoky
 name:         Jaroslav Vysoký
 category:
+  - clenove
   - mstrebicsko
 description:  člen Místního sdružení Třebíčsko
 profession: 
