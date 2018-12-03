@@ -29,10 +29,11 @@ class="c-program-candidate-badge__avatar-image">
             
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
-předseda kontrolního výboru   
+předseda kontrolního výboru<br>
+zastupitel
 </strong>
 <p class="c-program-candidate-badge__bio">
-zastupitel
+
 </p>
 </div>
 </a>
