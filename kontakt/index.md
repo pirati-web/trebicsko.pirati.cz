@@ -2,7 +2,7 @@
 layout: contacts
 description: Pirátská strana Vysočina je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-noresidence: yes
+# noresidence: yes
 contentSize: even
 ---
 
