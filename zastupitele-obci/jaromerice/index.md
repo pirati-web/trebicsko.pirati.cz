@@ -32,7 +32,7 @@ class="c-program-candidate-badge__avatar-image">
             
 </strong>
 <p class="c-program-candidate-badge__bio">
-            
+zastupitel
 </p>
 </div>
 </a>
@@ -63,7 +63,7 @@ class="c-program-candidate-badge__avatar-image">
             
 </strong>
 <p class="c-program-candidate-badge__bio">
-            
+neuvolněný radní
 </p>
 </div>
 </a>
@@ -94,7 +94,7 @@ class="c-program-candidate-badge__avatar-image">
             
 </strong>
 <p class="c-program-candidate-badge__bio">
-            
+neuvolněný radní
 </p>
 </div>
 </a>
