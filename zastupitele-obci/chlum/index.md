@@ -29,10 +29,11 @@ class="c-program-candidate-badge__avatar-image">
             
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
-předsedkyně kontrolního výboru
+předsedkyně kontrolního výboru<br>
+určená zastupitelka pro územní plánování
 </strong>
 <p class="c-program-candidate-badge__bio">
-určená zastupitelka pro územní plánování
+
 </p>
 </div>
 </a>
