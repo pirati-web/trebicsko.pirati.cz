@@ -18,7 +18,7 @@ organization:
     Leopolda Pokorného 18,
     Třebíč
   residenceImg:
-  mapLink: https://goo.gl/maps/uCjxZoD47N82
+  mapLink: https://goo.gl/maps/jPkcPiw459p
   # redmineLink: https://redmine.pirati.cz/projects/kraj-vysocina/issues/new
   # dataBoxId: b2i4r6j
   # transparentAccount: 2100048174/2010
@@ -28,37 +28,13 @@ organization:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
-  #- type: organizationEmail
+  - type: organizationEmail
   #- type: organizationRedmineLink
-  #- type: organizationPhone
+  - type: organizationPhone
   #- type: organizationTransparentAccount
   #  includeMoreLink: true
   #- type: organizationDataBox
-  #- type: piratiRootWebsite
-  - type: custom
-   iconClass: fa fa-user
-   label: Koordinátorka Krajského sdružení Vysočina
-   body: <a href="https://trebicsko.pirati.cz/lide/michaela-vodova/">Michaela Vodová</a>
-  - type: custom
-   iconClass: fa fa-envelope
-   label: Emailová adresa
-   body: <a href="mailto:michaela.vodova@pirati.cz">michaela.vodova@pirati.cz</a>
-  - type: custom
-   iconClass: fa fa-phone
-   label: Telefonní kontakt
-   body: <a href="tel:+420 602 276 233">+420 602 276 233</a>
-  - type: custom
-   iconClass: fa fa-user
-   label: Předseda Místního sdružení Třebíčsko
-   body: <a href="https://trebicsko.pirati.cz/lide/roman-pasek/">Roman Pašek</a>
-  - type: custom
-   iconClass: fa fa-envelope
-   label: Emailová adresa
-   body: <a href="mailto:roman.pasek@pirati.cz">roman.pasek@pirati.cz</a>
-  - type: custom
-   iconClass: fa fa-phone
-   label: Telefonní kontakt
-   body: <a href="tel:+420 734 507 329">+420 734 507 329</a>
+  - type: piratiRootWebsite
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
