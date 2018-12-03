@@ -29,10 +29,11 @@ class="c-program-candidate-badge__avatar-image">
             
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
-            
+předseda kontrolního výboru
+určený zastupitel pro zeleň a lesy
 </strong>
 <p class="c-program-candidate-badge__bio">
-            
+
 </p>
 </div>
 </a>
