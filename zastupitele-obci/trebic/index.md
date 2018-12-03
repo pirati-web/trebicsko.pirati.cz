@@ -16,6 +16,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Třeb�
 </div>
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
+            <p>opoziční zastupitel</p>
 <a class="c-program-candidate-badge__body" 
             href="https://trebicsko.pirati.cz/lide/stanislav-neuman/">
 <div class="c-program-candidate-badge__avatar">
@@ -47,6 +48,7 @@ class="c-program-candidate-badge__avatar-image">
 </div>
 <div class="c-program-candidates">
 <div class="c-program-candidate-badge">
+            <p>opoziční zastupitel</p>
 <a class="c-program-candidate-badge__body" 
             href="https://trebicsko.pirati.cz/lide/roman-pasek/">
 <div class="c-program-candidate-badge__avatar">
