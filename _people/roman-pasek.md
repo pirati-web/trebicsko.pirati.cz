@@ -5,6 +5,7 @@ category:
   - clenove
   - pms
   - mstrebicsko
+  - kontaktni_osoba
 ordpms: 1
 description: předseda Místního sdružení Třebíčsko
 profession: programátor analytik
