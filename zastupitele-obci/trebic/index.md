@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Třeb�
             href="https://trebicsko.pirati.cz/lide/stanislav-neuman/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://trebicsko.pirati.cz/assets/ad53cf-6b25b5e8d969449f4701cd554b45e613359dd4c33cf1d35a7697a1e821869302.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/people/stanislav-neuman.jpg" 
             alt="Stanislav Neuman" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -52,7 +52,7 @@ opoziční zastupitel
             href="https://trebicsko.pirati.cz/lide/roman-pasek/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://trebicsko.pirati.cz/assets/e41131-8b05cbc20a5d4086c9c3eae36a56daae4d0046b93efda1f2adfd8a8e6d599a33.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/people/roman-pasek.jpg" 
             alt="Roman Pašek" 
 class="c-program-candidate-badge__avatar-image">
 </div>
