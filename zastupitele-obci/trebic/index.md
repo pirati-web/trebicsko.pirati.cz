@@ -62,6 +62,7 @@ class="c-program-candidate-badge__avatar-image">
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
 <br>
+předseda kontrolního výboru<br>
 opoziční zastupitel
 </strong>
 <p class="c-program-candidate-badge__bio">
