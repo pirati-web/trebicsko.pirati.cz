@@ -23,7 +23,8 @@ profiles:
   github: https://github.com/pasekrom
   web: 
   blog: 
-  
+calendar: b38bnamjrgs591o19u6edtpkis@group.calendar.google.com
+
 ---
 
 Roman Pašek (* 6. května 1993 v Třebíči) je členem MS Třebíčsko. 
