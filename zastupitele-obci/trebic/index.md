@@ -72,7 +72,18 @@ opoziční zastupitel
 </div>
 </a>
 </div>
+</div>
+
+
 <div class="c-program-candidates">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=b38bnamjrgs591o19u6edtpkis%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="c-program-candidate-badge">
+<div class="c-program-candidate-badge__description">
+<strong class="c-program-candidate-badge__profession">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=b38bnamjrgs591o19u6edtpkis%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>          
+</strong>
+<p class="c-program-candidate-badge__bio">
+</p>
 </div>
 </div>
+</div>
+
