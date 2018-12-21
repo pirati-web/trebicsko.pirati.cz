@@ -45,4 +45,4 @@ Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bic�
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=b38bnamjrgs591o19u6edtpkis%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=b38bnamjrgs591o19u6edtpkis%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Europe%2FPrague" style="border-width:0" width="650" height="400" frameborder="0" scrolling="no"></iframe>
