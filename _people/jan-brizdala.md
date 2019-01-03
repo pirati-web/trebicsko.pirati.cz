@@ -2,8 +2,8 @@
 uid: jan.brizdala
 name:     Jan Břížďala
 category:
-  - kandidat2018
-description: kandidát komunálních voleb 2018 Třebíč
+  - regp
+description: člen majetkové komise Třebíč
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
