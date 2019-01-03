@@ -63,6 +63,7 @@ class="c-program-candidate-badge__avatar-image">
 <strong class="c-program-candidate-badge__profession">
 <br>
 předseda kontrolního výboru<br>
+člen sociální komise<br>
 člen redakční rady Třebíčského zpravodaje<br>
 opoziční zastupitel
 </strong>
