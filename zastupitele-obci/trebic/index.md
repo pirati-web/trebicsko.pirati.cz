@@ -75,7 +75,7 @@ opoziční zastupitel
 </div>
 </div>
 
----
+<br><br>
 
 <div class="o-section-header o-section-header--bordered">
 <h3 class="o-section__heading t-h2-super">
