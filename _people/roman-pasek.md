@@ -47,7 +47,10 @@ Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bic�
 ---
 
 **Politický kompas:**
-<img src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/chart/roman-pasek.png">
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/chart/roman-pasek.png">
+</p>
 
 ---
 
