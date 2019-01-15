@@ -30,7 +30,7 @@ main:
         name: Mediální odbor
         match: mo
   - link: /zastupitele-obci/
-    name: Zastupitelé obcí
+    name: Zastupitelstva
     match: zastupitele-obci
     submenu:
       - link: /zastupitele-obci/trebic/
