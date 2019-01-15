@@ -5,13 +5,36 @@ rbar:
    - calendar
 ---
 
+<div class="row o-section-block c-emphasized-text">
+  <header class="o-section-header">
+    <h1 class="o-section__heading">Práce v zastupitelstvu</h1>
+  </header>
+  <div class="medium-12 large-6 columns">
+    <section class="o-section">
+      <div class="u-center">
+        <a href="/zastupitele-obci/trebic/" class="button large u-1margin--top">Třebíč</a>
+      </div>
+    </section>
+  </div>
+  <div class="medium-12 large-6 columns">
+    <section class="o-section">
+      <div class="u-center">
+        <a href="/zastupitele-obci/jaromerice/" class="button large u-1margin--top">Jaroměřice nad Rokytnou</a>
+      </div>
+    </section>
+  </div>
+</div>
+
+<hr>
+
 <div class="row">
   <div class="medium-12 large-12 columns">
     <section class="o-section o-section--spaceBot">
       <header class="o-section-header">
         <h1 class="o-section__heading">Práce v zastupitelstvu</h1>
       </header>
-      <a href="/zastupitele-obci/trebic/" class="button expanded large">Třebíč</a><a href="/zastupitele-obci/jaromerice/" class="button expanded large">Jaroměřice nad Rokytnou</a>
+      <a href="/zastupitele-obci/trebic/" class="button large u-1margin--top">Třebíč</a>
+      <a href="/zastupitele-obci/jaromerice/" class="button large u-1margin--top">Jaroměřice nad Rokytnou</a>
     </section>
   </div>
 </div>
@@ -24,7 +47,7 @@ rbar:
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts limit: 6 %}
+        {% for article in site.posts limit: 4 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
         <div class="c-article-listing__nextbox">
