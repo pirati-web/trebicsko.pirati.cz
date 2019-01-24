@@ -45,26 +45,26 @@ layout: blank-article
                 <strong>
                     {% if candidate.uid %} 
                         {% assign candidatePage = site.people | where: "uid", candidate.uid | first %}
-                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.post1 or candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %} {% endif %}
+                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.post1 or candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}<br> {% endif %}
                     {% else %}
                         {{ candidate.name }}{% if candidate.post1 or candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                     {% endif %}
                 </strong>
 
                 {% if candidate.post1 %}
-                    {{ candidate.post1 }}{% if candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
+                    <li>{{ candidate.post1 }}{% if candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %} {% endif %}
                 {% endif %}
                 {% if candidate.post2 %}
-                    {{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 or candidate.post5 %} {% endif %}
+                    <li>{{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 or candidate.post5 %} {% endif %}
                 {% endif %}
                 {% if candidate.post3 %}
-                    {{ candidate.post3 }}<br>{% if candidate.post4 or candidate.post5 %} {% endif %}
+                    <li>{{ candidate.post3 }}<br>{% if candidate.post4 or candidate.post5 %} {% endif %}
                 {% endif %}
                 {% if candidate.post4 %}
-                    {{ candidate.post4}}<br>{% if candidate.post5 %} {% endif %}
+                    <li>{{ candidate.post4}}<br>{% if candidate.post5 %} {% endif %}
                 {% endif %}
                 {% if candidate.post5%}
-                    {{ candidate.post5}}
+                    <li>{{ candidate.post5}}
                 {% endif %}
                 </div>
               </p>
