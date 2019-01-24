@@ -4,9 +4,10 @@ uid: trebic
 number: 11 
 leader:
   uid: roman.pasek
-  age: 25
-  profession: programátor analytik
-  party: Piráti
+  post1: zastupitel
+  post2: předseda kontrolního výboru
+  post3: člen sociální komise
+  post4: člen redakční rady Třebíčského zpravodaje
   # description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
