@@ -27,12 +27,12 @@ layout: blank-article
       <div class="c-program-candidates">
 
         {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
-        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
+        {% include communal-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
 
         {% if candidates.head.size %}
             {% for candidate in candidates.head %}
               {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}              
-              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false %}
+              {% include communal-badge.html candidate=candidate candidatePage=candidatePage leader=false %}
             {% endfor %}
         {% endif %}
 
