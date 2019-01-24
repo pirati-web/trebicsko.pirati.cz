@@ -27,13 +27,12 @@ layout: blank-article
       <div class="c-program-candidates">
 
         {% assign leaderCandidate = site.people | where: "uid", candidates.leader.uid | first %}
-        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate rank=1 %}
+        {% include candidate-badge.html candidate=candidates.leader candidatePage=leaderCandidate %}
 
         {% if candidates.head.size %}
             {% for candidate in candidates.head %}
-              {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}
-              {% assign candidateRank = forloop.index | plus: 1 %}
-              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=candidateRank %}
+              {% assign candidatePage = site.people | where: "uid", candidate.uid  | first %}              
+              {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false %}
             {% endfor %}
         {% endif %}
 
@@ -43,26 +42,29 @@ layout: blank-article
               <p>
                 <div itemprop="description" class="c-content-block c-emphasized-text">
                 {% assign candidateRank = forloop.index | plus: 1 | plus: candidates.head.size %}
-                <strong> {{ candidateRank }}.
+                <strong>
                     {% if candidate.uid %} 
                         {% assign candidatePage = site.people | where: "uid", candidate.uid | first %}
-                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.age or candidate.profession or candidate.party %}, {% endif %}
+                        <a href={{candidatePage.url}}> {% include people/fullname.html person=candidatePage %}</a>{% if candidate.post1 or candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                     {% else %}
-                        {{ candidate.name }}{% if candidate.age or candidate.profession or candidate.party %}, {% endif %}
+                        {{ candidate.name }}{% if candidate.post1 or candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                     {% endif %}
                 </strong>
 
                 {% if candidate.post1 %}
-                    {{ candidate.post1 }}<br>{% if candidate.post2 or candidate.post3 or candidate.post4 %}, {% endif %}
+                    {{ candidate.post1 }}<br>{% if candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post2 %}
-                    {{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 %}, {% endif %}
+                    {{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post3 %}
-                    {{ candidate.post3 }}<br>{% if candidate.post4 %}, {% endif %}
+                    {{ candidate.post3 }}<br>{% if candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post4 %}
-                    {{ candidate.post4 }}
+                    {{ candidate.post4}}<br>{% if candidate.post5 %}, {% endif %}
+                {% endif %}
+                {% if candidate.post5%}
+                    {{ candidate.post5}}
                 {% endif %}
                 </div>
               </p>
