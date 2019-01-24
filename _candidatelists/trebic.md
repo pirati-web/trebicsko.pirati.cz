@@ -8,7 +8,6 @@ leader:
   post2: předseda kontrolního výboru
   post3: člen sociální komise
   post4: člen redakční rady Třebíčského zpravodaje
-  # description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: zdenek.jaksik
@@ -59,6 +58,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+  - uid: roman.pasek
+    post1: zastupitel
+    post2: předseda kontrolního výboru
+    post3: člen sociální komise
+    post4: člen redakční rady Třebíčského zpravodaje
   - name: Marie Vaverková
     age: 60
     profession: distributorka, ekonomka
