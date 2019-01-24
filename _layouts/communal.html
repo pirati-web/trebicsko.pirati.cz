@@ -52,14 +52,17 @@ layout: blank-article
                     {% endif %}
                 </strong>
 
-                {% if candidate.age %}
-                    {{ candidate.age }} let{% if candidate.profession or candidate.party %}, {% endif %}
+                {% if candidate.post1 %}
+                    {{ candidate.post1 }}<br>{% if candidate.post2 or candidate.post3 or candidate.post4 %}, {% endif %}
                 {% endif %}
-                {% if candidate.profession %}
-                    {{ candidate.profession }}{% if candidate.party %}, {% endif %}
+                {% if candidate.post2 %}
+                    {{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 %}, {% endif %}
                 {% endif %}
-                {% if candidate.party %}
-                    {{ candidate.party }}
+                {% if candidate.post3 %}
+                    {{ candidate.post3 }}<br>{% if candidate.post4 %}, {% endif %}
+                {% endif %}
+                {% if candidate.post4 %}
+                    {{ candidate.post4 }}
                 {% endif %}
                 </div>
               </p>
