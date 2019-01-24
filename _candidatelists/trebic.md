@@ -2,7 +2,7 @@
 title: Zastupitelstvo města Třebíč
 uid: trebic
 
-leader: 
+head: 
   - uid: roman.pasek
     post1: zastupitel
     post2: předseda kontrolního výboru
