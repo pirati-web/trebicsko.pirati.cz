@@ -2,7 +2,7 @@
 title: Zastupitelstvo města Třebíč
 uid: trebic
 
-tail: 
+leader: 
   - uid: roman.pasek
     post1: zastupitel
     post2: předseda kontrolního výboru
@@ -13,8 +13,6 @@ tail:
     post2: člen komise pro místní rozvoj
     post3: člen sportovní komise
     post4: člen výběrové komise
-  - name: Zdeněk Skoumal
-    post1: člen finančního výboru
   - uid: jan.brizdala
     post1: místopředseda komise pro místní rozvoj
     post2: člen majetkové komise
