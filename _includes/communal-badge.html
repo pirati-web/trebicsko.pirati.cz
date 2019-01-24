@@ -7,7 +7,21 @@
       <div class="c-program-candidate-badge__description">
           <h4 class="c-program-candidate-badge__name"><span class="c-headline-anchor">{% include people/fullname.html person=include.candidatePage %}</span></h4>
           <strong class="c-program-candidate-badge__profession">
-              {% if include.candidate.post1 or include.candidate.post2 or include.candidate.post3 or include.candidate.post4 or include.candidate.post5 %} {% endif %}
+            {% if include.candidate.post1 %}
+              <li>{{ include.candidate.post1 }}
+            {% endif %}
+            {% if include.candidate.post2 %}
+              <li>{{ include.candidate.post2 }}
+            {% endif %}   
+            {% if include.candidate.post3 %}
+              <li>{{ include.candidate.post3 }}
+            {% endif %}
+            {% if include.candidate.post4 %}
+              <li>{{ include.candidate.post4 }}
+            {% endif %}
+            {% if include.candidate.post5 %}
+              <li>{{ include.candidate.post5 }}      
+            {% endif %}
           </strong>
           {% if include.candidate.description %}
           <p class="c-program-candidate-badge__bio">{{ include.candidate.description }}</p>
