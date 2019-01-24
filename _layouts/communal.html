@@ -52,19 +52,19 @@ layout: blank-article
                 </strong>
 
                 {% if candidate.post1 %}
-                    {{ candidate.post1 }}<br>{% if candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
+                    <br>{{ candidate.post1 }}{% if candidate.post2 or candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post2 %}
-                    {{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
+                    <br>{{ candidate.post2 }}<br>{% if candidate.post3 or candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post3 %}
-                    {{ candidate.post3 }}<br>{% if candidate.post4 or candidate.post5 %}, {% endif %}
+                    <br>{{ candidate.post3 }}<br>{% if candidate.post4 or candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post4 %}
-                    {{ candidate.post4}}<br>{% if candidate.post5 %}, {% endif %}
+                    <br>{{ candidate.post4}}<br>{% if candidate.post5 %}, {% endif %}
                 {% endif %}
                 {% if candidate.post5%}
-                    {{ candidate.post5}}
+                    {{ candidate.post5}}<br>
                 {% endif %}
                 </div>
               </p>
