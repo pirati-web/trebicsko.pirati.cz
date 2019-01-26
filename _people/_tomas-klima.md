@@ -2,8 +2,8 @@
 uid: tomas.klima
 name: Tomáš Klíma
 category:
-  - kandidat2018
-description: kandidát v komunálních volbách 2018 - Jaroměřice nad Rokytnou
+  - komise
+description: člen komise - Jaroměřice nad Rokytnou
 profession: GPS technik
 img: people/tomas-klima.jpg
 ---
