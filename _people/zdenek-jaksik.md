@@ -3,7 +3,7 @@ uid: zdenek.jaksik
 name:     Zdeněk Jakšík
 category:
   - kandidat2018
-description: kandidát v komunálních volbách 2018 - Třebíč
+description: člen komise - Třebíč
 profession: manažer logistiky
 img: people/zdenek-jaksik.jpg
 mail:
