@@ -1,3 +1,9 @@
+- groupUid: trebic  
+  title: Práce v zastupitelstvu
+  campaigns:
+    - title: Třebíč  
+      categoryUid: trebic
+      
 - groupUid: trebic-2018  
   title: Komunální volby 2018 
   campaigns:
