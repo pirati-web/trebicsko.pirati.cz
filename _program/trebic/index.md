@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Program
-description: Novinky z města XY, pirátské kauzy a vše o xy.
+description: Novinky z města Třebíče, pirátské kauzy a vše o Třebíči.
 keywords: aktuality, tiskové zprávy, press, blog
 ---
 
