@@ -3,7 +3,7 @@ uid: michaela.adamovicova
 name:     Michaela Adamovičová
 category:
   - kandidat2018
-description: kandidát v komunálních volbách 2018 - Třebíč
+description: členka komise - Třebíč
 profession: distributorka přírodní kosmetiky, Pure Addicts, s.r.o.
 img: people/michaela-adamovicova.jpg
 mail:
