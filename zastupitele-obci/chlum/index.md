@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Chlum
             href="https://trebicsko.pirati.cz/lide/michaela-vodova/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://trebicsko.pirati.cz/assets/8a55e6-e963f7969330edf744efe44032d1b079412dfcd34a23eb3109bf5ddc22ca8ef6.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/people/michaela-vodova.jpg" 
             alt="Michaela Vodová" 
 class="c-program-candidate-badge__avatar-image">
 </div>
