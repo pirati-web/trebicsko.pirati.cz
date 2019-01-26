@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Lhotic
             href="https://trebicsko.pirati.cz/lide/lubos-fuks/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://trebicsko.pirati.cz/assets/d8cb97-c358862a74f1396f52c2320390d62cc5a4e12fe2a07720fd33172c1b721a8ad2.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/people/lubos-fuks.jpg" 
             alt="Luboš Fuks" 
 class="c-program-candidate-badge__avatar-image">
 </div>
