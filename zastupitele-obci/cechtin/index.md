@@ -20,7 +20,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci, zastupitelé, Čecht
             href="https://trebicsko.pirati.cz/lide/jaroslav-zejda/">
 <div class="c-program-candidate-badge__avatar">
 <img 
-            src="https://trebicsko.pirati.cz/assets/b7ad4a-4c0247b4aeadd6fd4618f19c7016335f71c3d2d13a28098371bbfaede6825779.jpg" 
+            src="https://raw.githubusercontent.com/pirati-web/trebicsko.pirati.cz/master/assets/img/people/jaroslav-zejda.jpg" 
             alt="Jaroslav Zejda" 
 class="c-program-candidate-badge__avatar-image">
 </div>
@@ -30,6 +30,7 @@ class="c-program-candidate-badge__avatar-image">
 </span></h4>
 <strong class="c-program-candidate-badge__profession">
 předseda kontrolního výboru<br>
+člen likvidační komise<br>
 zastupitel
 </strong>
 <p class="c-program-candidate-badge__bio">
