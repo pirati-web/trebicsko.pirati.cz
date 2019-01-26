@@ -2,7 +2,7 @@
 uid: marie.kourilkova
 name: Marie Kouřílková
 category:
-  - kandidat2018
+  - komise
 description: členka komise - Jaroměřice nad Rokytnou
 profession: obchodní zástupce
 img: people/marie-kourilkova.jpg
