@@ -5,7 +5,7 @@ category:
   - komise
 description: člen komise - Jaroměřice nad Rokytnou
 profession: 
-# img: people/.jpg
+img: people/pavel-chlubna.jpg
 ---
 
 Pavel Chlubna
