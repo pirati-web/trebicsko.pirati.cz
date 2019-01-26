@@ -14,5 +14,8 @@ order: 1
 ## Zásady působení v zastupitestvu města
 
 * odmítnutí spolupráce s extremistickými stranami a hnutími (např. KSČM, SPD) a uskupeními, které zastupují osobnosti podezřelé z ovlivňování veřejných zakázek či výrazného střetu zájmů
+ > naše uskupení není součástí žádné koalice
 * snížení počtu uvolněných členů zastupitelstva města nejvýše na 4
+ > aktuálně má Třebíč uvolněného starostu a tři místostarosty
 * zřízení registru lobbistických kontaktů u zastupitelů zvolených za naše uskupení
+ > jelikož byli zvoleni pouze pirátští zastupitelé, tak všechny lobbistické kontakty najdete na webu [evidence.pirati.cz](https://evidence.pirati.cz/author/211/)
