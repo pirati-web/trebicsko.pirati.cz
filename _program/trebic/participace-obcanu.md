@@ -16,4 +16,5 @@ order: 2
 * vytvoření systému, který umožní realizaci průzkumu veřejného mínění mezi občany
 * zavedení pravidelných setkávání vedení města s občany, a to v různých městských částech a integrovaných obcích (Budíkovice, Pocoucov, Ptáčov, Račerovice, Řípov, Sokolí a Slavice)
 * zavedení participativního rozpočtu, v rámci kterého budou moci občané rozhodovat o podpoře konkrétních investičních projektů, které sami občané navrhují
+ > zastupitelstvo města schválilo participativní rozpočet na [7. zasedání roku 2018](http://trebic.cz/zastupitelstvo%2Dc%2D7%2Dkonane%2Ddne%2D13%2Dprosince%2D2018/ds-2039/archiv=0&p1=30506)
 * zřízení studentské sněmovny a seniorského senátu jako poradních orgánů rady města
