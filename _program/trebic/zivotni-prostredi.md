@@ -10,7 +10,7 @@ order: 7
 ---
 
 
-## Zdravotnictví a sociální věci
+## Životní prostředí
 
 * kladení důrazu na udržování zeleně a úklidu veřejných prostranství včetně zimních období
 * snížená sazba za komunální odpad jako odměna za třídění odpadu
