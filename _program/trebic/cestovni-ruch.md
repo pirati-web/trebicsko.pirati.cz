@@ -3,7 +3,7 @@ title: Cestovní ruch
 uid: cestovni-ruch
 campaignCategoryUid: trebic
 campaignGroupUid: trebic
-garant: 
+garant: miroslav.teply
 perex: >
   
 order: 11
