@@ -4,6 +4,12 @@
     - title: Třebíč  
       categoryUid: trebic
       
+- groupUid: jaromerice  
+  title: Práce v zastupitelstvu
+  campaigns:
+    - title: Jaroměřice nad Rokytnou  
+      categoryUid: jaromerice
+      
 - groupUid: trebic-2018  
   title: Komunální volby 2018 
   campaigns:
