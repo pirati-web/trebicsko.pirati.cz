@@ -3,7 +3,7 @@ uid: jan.brizdala
 name:     Jan Břížďala
 category:
   - regp
-description: člen majetkové komise Třebíč
+description: člen komise - Třebíč
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
