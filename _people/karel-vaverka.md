@@ -3,7 +3,7 @@ uid: karel.vaverka
 name:     Karel Vaverka
 category:
   - kandidat2018
-description: kandidát v komunálních volbách 2018 - Třebíč
+description: člen komise - Třebíč
 profession: projektant, předseda ČKAIT Jihlava
 img: people/karel-vaverka.jpg
 mail:
