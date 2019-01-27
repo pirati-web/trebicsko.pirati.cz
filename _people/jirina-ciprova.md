@@ -6,7 +6,7 @@ category:
   - mstrebicsko
 description:  členka Místního sdružení Třebíčsko 
 profession:   předsedkyně spolku 
-#img: people/jirina-ciprova.jpg
+img: people/jirina-ciprova.jpg
 mail:
   - jirina.ciprova@pirati.cz
 profiles:
