@@ -51,6 +51,6 @@ Ve svém volném čase se věnuje aktivně hudbě. Dříve to byla kytara a bic�
 
 ---
 
-<iframe width="666" height="215" src="https://mrak.pirati.cz/index.php/apps/calendar/embed/XnJp9XMAoADWK64t"></iframe>
+<iframe width="666" height="420" src="https://mrak.pirati.cz/index.php/apps/calendar/embed/XnJp9XMAoADWK64t"></iframe>
 
 <br>
