@@ -36,3 +36,12 @@ title: Kontaktuj nás
             $hlaska = 'Formulář není správně vyplněný!';
     }
 ?>
+
+<div class="pce-hero pce-hero--entry">
+    <div class="pce-hero__content">
+        <h1 class="c-page-title">Kontaktuj nás</h1><br><br>
+        <h2 class="t-h4-alt">
+          Ve formuláři vyplňte všechna pole a zvolte v nabídce téma, kterého se vaše zpráva týká.
+      </h2>
+    </div>
+</div>
