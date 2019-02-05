@@ -4,7 +4,7 @@ title: Komunální volby v Třebíči
 description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Vysočině.
 keywords: lidé, členové, piráti, pirátky, příznivci, kandidátka, volby
 campaignCategoryUid: trebic2018
-candidateListUid: trebic
+candidateListUid: trebic2018
 ---
 
 Kandidátka Společně otevřeme Třebíč je sdružením Pirátů, TOP 09 a nezávislých kandidátů. Naše strany se v Třebíči shodnou na pro nás stěžejních tématech, jako je posílení participace občanů, budování infrastruktury města pro všechny generace či zvýšení transparentnosti.
