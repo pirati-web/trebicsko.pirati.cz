@@ -44,7 +44,9 @@ určená zastupitelka pro územní plánování
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
-        <h3 class="o-section__heading t-h2-super">Aktuality</h3>
+        <div class="o-section-header o-section-header--bordered">
+          <h3 class="o-section__heading t-h2-super">Aktuality</h3>
+        </div>        
         {% for article in site.posts-chlum limit: 4 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
