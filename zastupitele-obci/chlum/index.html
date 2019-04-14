@@ -44,9 +44,7 @@ určená zastupitelka pro územní plánování
   <div class="medium-12 large-8 columns">
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
-        <header class="o-section-header">
-          <h1 class="o-section__heading">Aktuální témata</h1>
-        </header>
+        <h3 class="o-section__heading t-h2-super">Aktuality</h3>
         {% for article in site.posts-chlum limit: 4 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
@@ -56,9 +54,25 @@ určená zastupitelka pro územní plánování
       </div>
     </section>
   </div>
-  {% if page.rbar %}
+
+  
   <div class="medium-12 large-4 columns">
-    {% include right-bar/rbar.html param='rbar' %}
+    <div class="o-section-header o-section-header--bordered">
+        <h3 class="o-section__heading t-h2-super">Informace</h3>
+      </div>
+      <div class="c-program-items">
+          {% for category in programCategories %}
+          <div class="c-program-items__item">
+            <div class="c-program-items__item-wrap c-tile c-tile--fill">
+              <div class="c-program-items__item-inner c-tile__body">
+                <a href="{{ category.url | relative_url }}">
+                  <h3 class="c-program-items__item-title c-headline-anchor t-h4">{{ category.title }}</h3>
+                  <p>{{ category.perex }}</p>
+                </a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+      </div>
+    </div>
   </div>
-  {% endif %}
-</div>
