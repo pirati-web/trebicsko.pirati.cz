@@ -47,7 +47,7 @@ určená zastupitelka pro územní plánování
         <header class="o-section-header">
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
-        {% for article in site.posts limit: 4 %}
+        {% for article in site.posts-chlum limit: 4 %}
           {% include articles/horizontal-article.html article=article-chlum %}
         {% endfor %}
         <div class="c-article-listing__nextbox">
