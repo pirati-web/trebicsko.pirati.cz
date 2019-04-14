@@ -95,7 +95,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 9
 
 exclude:
   - readme.md
