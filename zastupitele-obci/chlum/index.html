@@ -48,7 +48,7 @@ určená zastupitelka pro územní plánování
           <h1 class="o-section__heading">Aktuální témata</h1>
         </header>
         {% for article in site.posts limit: 4 %}
-          {% include articles/horizontal-article.html article=article %}
+          {% include articles/horizontal-article.html article=article-chlum %}
         {% endfor %}
         <div class="c-article-listing__nextbox">
           <a href="{{'/aktuality-chlum/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
