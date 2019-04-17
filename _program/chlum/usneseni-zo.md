@@ -8,7 +8,7 @@ perex: >
 order: 1
 ---
 
-**Z důvodu, že došlo ke změně webu obce Chlum a nejsou dohledatelné zápisy z jednání ZO Chlum zpětně a také vůbec není jasné, zda na novém webu obec Chlum bude zápisy z jednání ZO nadále zveřejňovat, budu tyto zápisy z jednání ZO Chlum zveřejnovat sama.
+Z důvodu, že došlo ke změně webu obce Chlum a nejsou dohledatelné zápisy z jednání ZO Chlum zpětně a také vůbec není jasné, zda na novém webu obec Chlum bude zápisy z jednání ZO nadále zveřejňovat, budu tyto zápisy z jednání ZO Chlum zveřejnovat sama.
 
 Pro začátek pořizuji skeny zápisů, které udělá zapisovatel a jsou 11. den dostupné pro veřejnost na obecním úřadě. Takový zápis dle zákona anonymizuji a zveřejním zde na této webové stránce pro účely informování občanů. Vždy uvedu, zda je anonymizován či jinak upraven.
 
@@ -16,7 +16,7 @@ Do budoucna je mým záměrem zápisy psát samostatně detailněji s odkazy na 
 
 Zápisy z roku 2018 jsou pořízeny z „minulého webu“ obce a nejsou před zveřejněním zde nijak upravovány. Zápis 05-06 chybí neboť se na „minulém webu“ nenacházel. Doplním skenem.
 
-Zápisy za rok 2019 již jsou anonymizovány a rozsah je uveden vždy u jednotlivého zápisu.**
+Zápisy za rok 2019 již jsou anonymizovány a rozsah je uveden vždy u jednotlivého zápisu.
 
 ## 2019
 
@@ -25,7 +25,7 @@ Zápisy za rok 2019 již jsou anonymizovány a rozsah je uveden vždy u jednotli
 * [Zápis usnesení ZO Chlum 2/2019 - 5. 3. 2019](https://wiki.pirati.cz/_media/lide/michaela_vodova/02-2019.pdf) 
  > Zápis byl anonymizován. Smazány podpisy.
  
-## 2019
+## 2018
 
 * [Zápis usnesení ZO Chlum 1/2018 - 7. 3. 2018](https://wiki.pirati.cz/_media/lide/michaela_vodova/01_2018.pdf) 
  > 
