@@ -1,4 +1,5 @@
 ---
+id: novinka1
 category: blog
 layout: post
 title: Novinka 1
