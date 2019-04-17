@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Program
-description: Novinky z města Třebíče, pirátské kauzy a vše o Třebíči.
+title: Informace
+description: Informace z obce Chlum.
 keywords: aktuality, tiskové zprávy, press, blog
 ---
 
@@ -11,7 +11,7 @@ keywords: aktuality, tiskové zprávy, press, blog
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Program</h1>
+            <h1 itemprop="headline" class="c-page-title">Informace</h1>
           </header>
         <!--
           {% assign posts = paginator.posts %}
