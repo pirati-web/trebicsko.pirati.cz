@@ -4,6 +4,7 @@ category: blog
 layout: post
 title: Novinka 1
 image: posts/2018-09-21-festival-svobodne-kultury.jpg
+perex: Perex lorem ipsum...
 ---
 
 **V pátek 28. září se v Třebíči v židovské čtvrti uskuteční multižánrový Festival svobodné kultury. Festival se koná v ulici Leopolda Pokorného, před kulturní hospůdkou Trumpetka, a je zdarma.**
