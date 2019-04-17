@@ -1,11 +1,7 @@
 ---
-date: 2018-09-21
 category: blog
-tags: akce Třebíč VyOsení kultura
 layout: post
-title: Festival svobodné kultury v Třebíči
-author: Hana Hajnová
-authorId: hana.hajnova    # uid nekoho z _people (nepoviné)
+title: Novinka 1
 image: posts/2018-09-21-festival-svobodne-kultury.jpg
 ---
 
