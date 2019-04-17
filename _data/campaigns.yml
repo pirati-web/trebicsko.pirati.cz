@@ -3,6 +3,12 @@
   campaigns:
     - title: Třebíč  
       categoryUid: trebic
+
+- groupUid: chlum  
+  title: Informace
+  campaigns:
+    - title: Chlum  
+      categoryUid: chlum
       
 - groupUid: jaromerice  
   title: Práce v zastupitelstvu
