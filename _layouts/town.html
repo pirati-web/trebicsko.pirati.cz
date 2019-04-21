@@ -3,7 +3,7 @@ layout: blank-article
 ---
 
 <div class="c-corner-ribbon-container">
-  {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+  {% assign candidates = site.postschlum | where: "post", page.postschlumid | first %}
   {% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
 
   {% capture headline %}{{ page.title }}{% if candidates.number %}<span class="t-subheader u-1margin--left"></span>{% endif %}{% endcapture %}
