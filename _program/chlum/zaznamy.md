@@ -13,3 +13,6 @@ Videa budu zveřejňovat v jedné složce: https://www.youtube.com/watch?v=CMrRN
 V popisu každého videa najdete časový program a další informace týkající se daného záznamu. 
 
 ## 2019
+
+{% include youtube.html id='CMrRNSNgC1o' %}
+
