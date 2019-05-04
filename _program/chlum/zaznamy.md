@@ -14,8 +14,10 @@ V popisu každého videa najdete časový program a další informace týkajíc�
 
 ## 2019
 
-{% include youtube.html id='TotbKFcALkY' %}
+{% include youtube.html id='TotbKFcALkY' %} 
+
 {% include youtube.html id='LANCOyw2KhI' %}
+
 {% include youtube.html id='CMrRNSNgC1o' %}
 
 
