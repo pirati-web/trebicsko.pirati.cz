@@ -2,8 +2,8 @@
 uid: jan.brizdala
 name:     Jan Břížďala
 category:
-  - regp
-description: člen komise - Třebíč
+  - clenove
+description: člen Místního sdružení Třebíčsko
 profession: středoškolský učitel
 img: people/jan-brizdala.jpg
 mail:
