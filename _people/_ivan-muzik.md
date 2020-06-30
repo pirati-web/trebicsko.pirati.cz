@@ -2,9 +2,7 @@
 uid:          ivan.muzik
 name:         Ivan Mužík
 category:
-  - clenove
-  - mstrebicsko
-description:  člen Místního sdružení Třebíčsko
+description:  
 profession:   
 img: people/ivan-muzik.jpg
 mail:
